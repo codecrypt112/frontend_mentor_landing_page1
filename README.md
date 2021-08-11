@@ -2,7 +2,7 @@
 
 ![Design of the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
-## <Hi>! 
+## <H1>Hi</h1>! 
 
 Thanks for checking out first my front-end coding challenge.
 
